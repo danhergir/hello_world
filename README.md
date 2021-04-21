@@ -9,7 +9,7 @@ This is a piece of software made to guide people to take the first step with Pyt
 
 
 **Video Tutorial** <br>
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hbG8ud99m60)
 
 # Development Environment
 
