@@ -1,7 +1,7 @@
 # Overview
 
 **Description** <br>
-With this tutorial people could say hello to someone else and saving the versions of the program using Git and GitHub, and getting used to Visual Studio Code
+With this tutorial you could say hello to someone else, saving the versions of the program using Git and GitHub, and getting used to Visual Studio Code
 
 
 **Purpose** <br>
